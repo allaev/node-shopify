@@ -5,6 +5,7 @@
 - Redux
 - react-redux
 - redux-promise
+- Axios
 - Bootstrap
 - OpenWeatherMap API
 - Node.js
