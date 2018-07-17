@@ -6,6 +6,7 @@
 - redux-promise
 - Axios
 - react-sparklines
+- Lodash
 - Bootstrap
 - OpenWeatherMap API
 - Node.js
