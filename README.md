@@ -4,8 +4,8 @@
 - Redux
 - react-redux
 - redux-promise
-- react-sparklines
 - Axios
+- react-sparklines
 - Bootstrap
 - OpenWeatherMap API
 - Node.js
