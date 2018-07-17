@@ -9,6 +9,7 @@
 - [Lodash](https://github.com/lodash/lodash)
 - [Bootstrap](https://github.com/twbs/bootstrap)
 - [OpenWeatherMap API](https://openweathermap.org/api)
+- [Google Maps API](https://maps.googleapis.com)
 - [Node.js](https://github.com/nodejs/node)
 
 ### Getting Started
