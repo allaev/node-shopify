@@ -1,4 +1,4 @@
-# weather-redux
+# weather-redux ![CI status](https://img.shields.io/badge/style-flat-green.svg?longCache=true&style=flat) ![CI status](https://img.shields.io/badge/top%20language-Javascript-yellow.svg)
 
 - [React](https://github.com/facebook/react)
 - [Redux](https://github.com/reduxjs/redux)
@@ -13,7 +13,12 @@
 - [Node.js](https://github.com/nodejs/node)
 
 ### Getting Started
+Add your OpenWeatherMap API key to src/actions/index.js:
+```
+const API_KEY = ''; //Put your API key here
+```
 
+Run the app:
 ```
 > npm install
 > npm start
