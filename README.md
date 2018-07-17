@@ -1,10 +1,10 @@
 # weather-redux
 
 - React
-- JSX
 - Redux
 - react-redux
 - redux-promise
+- react-sparklines
 - Axios
 - Bootstrap
 - OpenWeatherMap API
