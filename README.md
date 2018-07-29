@@ -1,16 +1,19 @@
 # weather-redux ![CI status](https://img.shields.io/badge/style-flat-green.svg?longCache=true&style=flat) ![CI status](https://img.shields.io/badge/top%20language-Javascript-yellow.svg)
 
-- [React](https://github.com/facebook/react)
-- [Redux](https://github.com/reduxjs/redux)
-- [react-redux](https://github.com/reduxjs/react-redux)
-- [redux-promise](https://github.com/redux-utilities/redux-promise)
-- [Axios](https://github.com/axios/axios)
-- [react-sparklines](https://github.com/borisyankov/react-sparklines)
-- [Lodash](https://github.com/lodash/lodash)
-- [Bootstrap](https://github.com/twbs/bootstrap)
-- [OpenWeatherMap API](https://openweathermap.org/api)
-- [Google Maps API](https://maps.googleapis.com)
-- [Node.js](https://github.com/nodejs/node)
+Weather forecast app with graph visualization. Enter the name of the city to get a five-day forecast.
+
+- React
+- Redux
+- react-redux
+- redux-promise
+- Axios
+- react-sparklines
+- Lodash
+- Bootstrap
+- OpenWeatherMap API
+- Google Maps API
+- Node.js
+- Webpack
 
 ### Getting Started
 Add your OpenWeatherMap API key to src/actions/index.js:
@@ -23,3 +26,4 @@ Run the app:
 > npm install
 > npm start
 ```
+![weather-redux-screenshot](https://user-images.githubusercontent.com/34710484/43364378-71208d5e-9332-11e8-929c-61127f51c00e.png)
