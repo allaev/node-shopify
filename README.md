@@ -2,6 +2,8 @@
 
 Weather forecast app with graph visualization. Enter the name of the city to get a five-day forecast.
 
+### [Demo on Heroku](https://salty-temple-18624.herokuapp.com/) :point_left:
+
 - React
 - Redux
 - react-redux
